@@ -192,7 +192,7 @@ to access Client-1 through Remote Desktop.
 This allows standard domain users to remotely access the workstation.
 
 <p>
-<img src="YOUR_SCREENSHOT_URL" width="80%" alt="Remote Desktop Domain Users"/>
+<img width="557" height="587" alt="image" src="https://github.com/user-attachments/assets/ac6d6026-50d0-489b-ac1d-e410e49c94d2" />
 </p>
 
 # User Administration with PowerShell
@@ -214,7 +214,7 @@ The accounts were created inside:
 `_EMPLOYEES`
 
 <p>
-<img src="YOUR_SCREENSHOT_URL" width="80%" alt="PowerShell User Creation"/>
+<img width="1542" height="792" alt="image" src="https://github.com/user-attachments/assets/a2cfdd8e-985f-4653-a0cb-b0b83dc30699" />
 </p>
 
 ## 12. Verify Users in Active Directory
@@ -222,7 +222,7 @@ The accounts were created inside:
 Open Active Directory Users and Computers and confirm that the new accounts were successfully created inside the `_EMPLOYEES` OU.
 
 <p>
-<img src="YOUR_SCREENSHOT_URL" width="80%" alt="Active Directory Users"/>
+<img width="852" height="597" alt="image" src="https://github.com/user-attachments/assets/0334341f-71bc-4ff5-99c4-a34034868a51" />
 </p>
 
 ## 13. Test Domain User Login
@@ -239,10 +239,6 @@ Successful login confirms that:
 - Active Directory authentication is working
 - DNS is correctly configured
 - Domain users can access the workstation
-
-<p>
-<img src="YOUR_SCREENSHOT_URL" width="80%" alt="Domain User Login"/>
-</p>
 
 # Skills Demonstrated
 
